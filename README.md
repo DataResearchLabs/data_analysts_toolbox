@@ -1,2 +1,4 @@
-# data_analysts_toolbox_prototypes
-Useful data analyst tools prototyped in Microsoft Access -- Heavily downloaded/used prototypes will be re-written in c# and/or python
+# Data Analysts' Toolbox - Prototypes
+Collection of useful data analyst tools prototyped in Microsoft Access.  Winners that are heavily downloaded/used will be re-written in c# and/or python.
+
+
