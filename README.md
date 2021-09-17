@@ -1,4 +1,8 @@
 # Data Analysts' Toolbox - Prototypes
-Collection of useful data analyst tools prototyped in Microsoft Access.  Winners that are heavily downloaded/used will be re-written in c# and/or python at some point in the future.
+Collection of useful data analyst tools to manipulate everything from text files to database systems like MS SQL Server, Oracle, MySQL, or Postgresql. 
+
+Although these prototypes are written in Microsoft Access, don't be fooled.  Access is used simply for its strenghs: rapid user interface prototyping, simple report prototyping, and more easily deployed in a corporate environment than an .exe file.  Any database work avoids its weakness (file based data storage) by running SQL directly thru to server.
+
+The plan is to re-write prototypes that are heavily downloaded and used in c# and/or python at some point in the future, time permitting.  
 
 
