@@ -1,4 +1,4 @@
 # End-of-Line Editor (MS-Access)
-### Data Analysts' Toolbox
+#### Part of the Data Analysts' Toolbox
 
 blah blah
