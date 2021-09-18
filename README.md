@@ -3,7 +3,7 @@
 ## Overview
 Collection of useful data analyst tools to manipulate everything from text files to database systems like MS SQL Server, Oracle, MySQL, or Postgresql. 
 
-Disclaimer:  These tools are all prototyped in Microsoft Access
+Disclaimer:  These tools are all prototyped in [Microsoft Access](https://github.com/DataResearchLabs/data_analysts_toolbox_prototypes/blob/main/FAQ.md#q01)
 
 
 ## Text Files
