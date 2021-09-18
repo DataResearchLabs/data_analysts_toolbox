@@ -34,21 +34,5 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 ***Also, be sure to visit or subscribe to our YouTube channel*** www.DataResearchLabs.com!<br>
 <br>
 
-<kbd>
-  <img src="img/img_01_showcase_app_features.png" width="1123">
-</kbd>
-<br>
-<br>
 
-
-## Table of Contents
- - <a href="#introduction">1. Introduction</a>
- - <a href="#installation">2. Installation</a>
- - <a href="#gettingStarted">3. Getting Started, Configure Metadata</a>
- - <a href="#dailyTimeEntry">4. "Daily Time Entry" Sheet</a>
- - <a href="#reports">5. "Reports" Worksheet</a>
- - <a href="#import">6. "Upgrade/Import" Worksheet</a>
- - <a href="#about">7. "About" Worksheet</a>
- - <a href="#advancedTopics">8. Advanced Tips & Tricks</a>
- - <a href="#wrapup">9. Wrap Up</a>
 
