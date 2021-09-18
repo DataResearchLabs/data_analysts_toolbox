@@ -14,7 +14,11 @@ The plan is to re-write those prototypes that get widely used into either c#, py
 ## Text Files
 
 
-### End-of-Line Editor
-Blah, blah, blah.
+### [End-of-Line Editor](https://github.com/DataResearchLabs/sql_scripts/blob/main/data_dictionary_scripts.md)
+The End-of-Line Editor tool and tutorials enable you to easily view and/or change the end-of-line character(s) in a target text file.<br>
+<br>
+<br>
+
+
 
 
