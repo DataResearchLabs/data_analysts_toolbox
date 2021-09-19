@@ -18,8 +18,7 @@
 * **License**: Creative Commons Zero, effectively public domain.  Free to use.  Free to copy.  Free to alter.  Free to distribute.<br>
 
 ## Download
-Click here to **[download the application](https://github.com/DataResearchLabs/data_analysts_toolbox_prototypes/tree/main/text_files_end_of_line_editor/download)**.<br>
-This package contains an .accde file that is locked so source code is inaccessible and can be safely used in your organization.<br><br>
+Click here to **[download the application](https://github.com/DataResearchLabs/data_analysts_toolbox_prototypes/tree/main/text_files_end_of_line_editor/download)**.  This package contains an .accde file that is locked so source code is inaccessible and can be safely used in your organization.<br><br>
 
 Click here to **[download the source code](https://github.com/DataResearchLabs/data_analysts_toolbox_prototypes/blob/main/text_files_end_of_line_editor/src/eol_editor.accdb)**.  This is an .accdb file that is open-source. Either (a) close all forms and press F11, **OR** (b) hold down the Shift-key when you open the application to access ALL source code.
 
