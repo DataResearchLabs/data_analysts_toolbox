@@ -22,8 +22,8 @@
 
 ***Video #1 "Overview Tutorial"***<br>
 <kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=e4_ZfRGVlc4" target="_blank">
- <img src="http://img.youtube.com/vi/e4_ZfRGVlc4/0.jpg" alt="Overview Video" width="200" />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=XXXXe4_ZfRGVlc4" target="_blank">
+ <img src="http://img.youtube.com/vi/XXXXe4_ZfRGVlc4/0.jpg" alt="Overview Video" width="200" />
 </a>
  </kbd>
 <br>
