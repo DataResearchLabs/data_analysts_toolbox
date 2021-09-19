@@ -36,7 +36,7 @@
 <br>
 
 <kbd>
-  <img src="img/img_01_showcase_app_features.png" width="1123">
+  <img src="img/main_screen.png" width="1123">
 </kbd>
 
 
