@@ -7,7 +7,7 @@ Disclaimer:  These tools are all prototyped in Microsoft Access.  [Read here for
 <br>
 
 
-## [End-of-Line Editor for Text Files](https://github.com/DataResearchLabs/data_analysts_toolbox_prototypes/blob/main/text_files_end_of_line_editor/ms_access.md)
+## [End-of-Line Editor for Text Files](https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/text_files_end_of_line_editor/ms_access.md)
 
 <img align="right" src="https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/text_files_end_of_line_editor/img/main_screen_x.png" width="300px">
 
