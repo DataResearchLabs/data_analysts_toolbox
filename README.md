@@ -8,6 +8,7 @@ Disclaimer:  These tools are all prototyped in Microsoft Access.  [Read here for
 
 ## Text Files
 
+<img align="right" src="https://github.com/DataResearchLabs/data_analysts_toolbox_prototypes/blob/main/text_files_end_of_line_editor/img/main_screen.png" width="300px">
 
 ### [End-of-Line Editor](https://github.com/DataResearchLabs/data_analysts_toolbox_prototypes/blob/main/text_files_end_of_line_editor/ms_access.md)
 The End-of-Line Editor tool enables you to easily view and/or change the end-of-line character(s) in a target text file.<br>
