@@ -1,9 +1,9 @@
-<img align="left" src="https://github.com/DataResearchLabs/data_analysts_toolbox_prototypes/blob/main/text_files_end_of_line_editor/img/icon_end_of_line_editor.png" width="64px">
+<img align="left" src="https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/text_files_end_of_line_editor/img/icon_end_of_line_editor.png" width="64px">
 
 # End-of-Line Editor (EOLE)
 [![License: CC0](https://img.shields.io/badge/License-CC0-red)](LICENSE "Creative Commons Zero License by DataResearchLabs (effectively = Public Domain")
 ![current_build Office_365](https://img.shields.io/badge/Access_Version-Office_365-yellow)
-[![Latest Release](https://img.shields.io/badge/Latest_Release-V2.0.1.44458-blue)](https://github.com/DataResearchLabs/data_analysts_toolbox_prototypes/tree/main/text_files_end_of_line_editor/download)
+[![Latest Release](https://img.shields.io/badge/Latest_Release-V2.0.1.44458-blue)](https://github.com/DataResearchLabs/data_analysts_toolbox/tree/main/text_files_end_of_line_editor/download)
 [![YouTube](https://img.shields.io/badge/YouTube-DataResearchLabs-brightgreen)](http://www.DataResearchLabs.com)
 #### Part of the "Data Analysts' Toolbox"
 
@@ -18,9 +18,9 @@
 * **License**: Creative Commons Zero, effectively public domain.  Free to use.  Free to copy.  Free to alter.  Free to distribute.<br>
 
 ## Download
-Click here to **[download the application](https://github.com/DataResearchLabs/data_analysts_toolbox_prototypes/tree/main/text_files_end_of_line_editor/download)**.  This package contains an .accde file that is locked so source code is inaccessible and can be safely used in your organization.<br><br>
+Click here to **[download the application](https://github.com/DataResearchLabs/data_analysts_toolbox/tree/main/text_files_end_of_line_editor/download)**.  This package contains an .accde file that is locked so source code is inaccessible and can be safely used in your organization.<br><br>
 
-Click here to **[download the source code](https://github.com/DataResearchLabs/data_analysts_toolbox_prototypes/blob/main/text_files_end_of_line_editor/src/eol_editor.accdb)**.  This is an .accdb file that is open-source. Either (a) close all forms and press F11, **OR** (b) hold down the Shift-key when you open the application to access ALL source code.
+Click here to **[download the source code](https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/text_files_end_of_line_editor/src/eol_editor.accdb)**.  This is an .accdb file that is open-source. Either (a) close all forms and press F11, **OR** (b) hold down the Shift-key when you open the application to access ALL source code.
 
 
 ***Video #1 "Overview Tutorial"***<br>
