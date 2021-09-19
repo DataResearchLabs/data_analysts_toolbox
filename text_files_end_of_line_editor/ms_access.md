@@ -36,7 +36,7 @@
 <br>
 
 <kbd>
-  <img src="img/main_screen.png" width="1123">
+  <img src="img/main_screen_x.png" width="1123">
 </kbd>
 
 
