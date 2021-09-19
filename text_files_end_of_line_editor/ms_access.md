@@ -35,5 +35,8 @@
 ***Also, be sure to visit or subscribe to our YouTube channel*** www.DataResearchLabs.com!<br>
 <br>
 
+<kbd>
+  <img src="img/img_01_showcase_app_features.png" width="1123">
+</kbd>
 
 
