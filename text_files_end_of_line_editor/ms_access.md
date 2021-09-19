@@ -31,7 +31,8 @@ Click here to **[download the source code](https://github.com/DataResearchLabs/d
 ## Training Videos
 <table><tr>
 <td>
-  ***Video #1 "Overview Tutorial"***<br>
+  
+ ***Video #1 "Overview Tutorial"***<br>
   <kbd>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=XXXXe4_ZfRGVlc4" target="_blank">
    <img src="http://img.youtube.com/vi/XXXXe4_ZfRGVlc4/0.jpg" alt="Overview Video" width="200" />
@@ -39,7 +40,8 @@ Click here to **[download the source code](https://github.com/DataResearchLabs/d
   </kbd>
 </td>
 <td>
-  ***Video #2 "Download & Deploy Tutorial"***<br>
+  
+ ***Video #2 "Download & Deploy Tutorial"***<br>
   <kbd>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=XXXXe4_ZfRGVlc4" target="_blank">
    <img src="http://img.youtube.com/vi/XXXXe4_ZfRGVlc4/0.jpg" alt="Overview Video" width="200" />
