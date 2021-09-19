@@ -10,7 +10,7 @@
 
 ## Overview
 * **What**: A free, simple utility for identifying and changing end-of-line characters in text files.<br>
-* **Levelset**: Windows PC files end lines with CR+LF (carriage return + line feed).  Linux, Unix, and the newer MAC end lines with just LF.  The older MacOS ended lines with CR.  Text editors and applications in the various operating systems often cannot read files written in another OS until you change the end of line characters<br>
+* **Levelset**: Windows PC files end lines with CR+LF (carriage return + line feed).  Linux, Unix, and the newer MAC end lines with just LF.  The older MacOS ended lines with CR.  Text editors and applications in the various operating systems often cannot read files written in another OS until you change the end of line characters.<br>
 * **Why**: Sometimes you need to convert a text file created in Linux (LF terminator) into a file PCs can read (CR+LF terminator).  Same for the reverse direction, or going to or from the old MacOS.  On rare occasions, you'll even see files that for whatever reason mix and match end of line terminators (eg: all CRLF's with one line having only a CR).  You can use this simple utility to quickly spot these issues, and fix them.<br>
 * **How**: Be sure you have Office 365 installed, then download and run .accdb file.  From there, click open and pick the text file of interest and wait for it to load and parse out.  It will popup with a row count as well as a count of each end-of-line terminator encountered.  Select the new end-of-line you want from the drop-down, and click the convert button.<br>
 * **Who**: Built as a standalone tool for individual data analysts, software test engineers, or similar folks.<br>
