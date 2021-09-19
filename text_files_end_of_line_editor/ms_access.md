@@ -41,7 +41,7 @@ Click here to **[download the source code](https://github.com/DataResearchLabs/d
 </td>
 <td>
   
- ***Video #2 "Download & Deploy Tutorial"***<br>
+ ***Video #2 "Download & Deploy"***<br>
   <kbd>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=XXXXe4_ZfRGVlc4" target="_blank">
    <img src="http://img.youtube.com/vi/XXXXe4_ZfRGVlc4/0.jpg" alt="Overview Video" width="200" />
