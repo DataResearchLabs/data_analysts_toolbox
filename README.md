@@ -1,4 +1,4 @@
-# Data Analysts' Toolbox - Prototypes
+# Data Analysts' Toolbox
 
 ## Overview
 Collection of useful data analyst tools to manipulate everything from text files to database systems like MS SQL Server, Oracle, MySQL, or Postgresql. 
