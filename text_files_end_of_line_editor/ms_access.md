@@ -5,16 +5,18 @@
 ![current_build Office_365](https://img.shields.io/badge/Access_Version-Office_365-yellow)
 [![Latest Release](https://img.shields.io/badge/Latest_Release-V2.0.1.44458-blue)](https://github.com/DataResearchLabs/data_analysts_toolbox_prototypes/tree/main/text_files_end_of_line_editor/download)
 [![YouTube](https://img.shields.io/badge/YouTube-DataResearchLabs-brightgreen)](http://www.DataResearchLabs.com)
-#### Data Analysts' Toolbox
+#### Part of the "Data Analysts' Toolbox"
+
 
 ## Overview
-* **What**: A free, lean task and time tracker with a simple user interface and several reports for analysis.<br>
-* **When**: Use it daily.  Use it consistently.  It literally takes just 3 to 4 minutes per day.<br>
-* **Who**: Built as a standalone tool for individual contributors working from a desktop or laptop computer.<br>
-* **Why**: Rollup your time for better estimates, for better performance review discussions, to help optimize where effort gets focused, or just to set expectations for how long a complex thought-work-task takes.<br>
-* **How**: Simple, low-tech, minimalist data entry that rolls up your time and tasks into meaningful, actionable reports.<br>
+* **What**: A free, simple utility for identifying and changing end-of-line characters in text files.<br>
+* **LevelSet**: Windows PC files end lines with CR+LF (carriage return + line feed).  Linux, Unix, and the newer MAC end lines with just LF.  The older MacOS ended lines with CR.  Text editors and applications in the various operating systems often cannot read files written in another OS until you change the end of line characters<br>
+* **Why**: Sometimes you need to convert a text file created in Linux (LF terminator) into a file PCs can read (CR+LF terminator).  Same for the reverse direction, or going to or from the old MacOS.  On rare occasions, you'll even see files that for whatever reason mix and match end of line terminators (eg: all CRLF's with one line having only a CR).  You can use this simple utility to quickly spot these issues, and fix them.<br>
+* **How**: Be sure you have Office 365 installed, then download and run .accdb file.  From there, click open and pick the text file of interest and wait for it to load and parse out.  It will popup with a row count as well as a count of each end-of-line terminator encountered.  Select the new end-of-line you want from the drop-down, and click the convert button.<br>
+* **Who**: Built as a standalone tool for individual data analysts, software test engineers, or similar folks.<br>
 * **Where**: On a desktop or laptop.  **Requires Microsoft Access 365**.  Yep, it is a VBA application, [read here for why](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/src/SOURCE_CODE.md#whyMicrosoftAccess)
-* **Source Code**: is open-source. Either (a) close all forms and press F11, **OR** (b) hold down the Shift-key when you open the application to access ALL source code.
+( **Download**: the [standard package from here](https://github.com/DataResearchLabs/data_analysts_toolbox_prototypes/tree/main/text_files_end_of_line_editor/download).  It is an .accde file that is locked so source code is inaccessible and you can safely use it in your organization.
+* **Source Code**: Download the [source code from here](https://github.com/DataResearchLabs/data_analysts_toolbox_prototypes/blob/main/text_files_end_of_line_editor/src/eol_editor.accdb).  This is an .accdb file that is open-source. Either (a) close all forms and press F11, **OR** (b) hold down the Shift-key when you open the application to access ALL source code.
 * **License**: Creative Commons Zero, effectively public domain.  Free to use.  Free to copy.  Free to alter.  Free to distribute.<br>
 Am happy if you find this tool useful and visit my [YouTube site](http://www.dataresearchlabs.com/) for training and additional tools.<br>
 
