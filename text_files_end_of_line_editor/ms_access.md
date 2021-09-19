@@ -22,6 +22,11 @@ Click here to **[download the application](https://github.com/DataResearchLabs/d
 
 Click here to **[download the source code](https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/text_files_end_of_line_editor/src/eol_editor.accdb)**.  This is an .accdb file that is open-source. Either (a) close all forms and press F11, **OR** (b) hold down the Shift-key when you open the application to access ALL source code.
 
+***If you like this tool, be sure to click the "Star" button above in GitHub.*** <br>
+<br>
+***Also, be sure to visit or subscribe to our YouTube channel*** www.DataResearchLabs.com!<br>
+<br>
+
 
 ## Training Videos
 ***Video #1 "Overview Tutorial"***<br>
@@ -35,11 +40,6 @@ Click here to **[download the source code](https://github.com/DataResearchLabs/d
 
 
 ## Screenshot
-***If you like this tool, be sure to click the "Star" button above in GitHub.*** <br>
-<br>
-***Also, be sure to visit or subscribe to our YouTube channel*** www.DataResearchLabs.com!<br>
-<br>
-
 <kbd>
   <img src="img/main_screen_x.png" width="1123">
 </kbd>
