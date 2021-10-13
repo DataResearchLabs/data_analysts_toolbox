@@ -3,7 +3,7 @@
 # End-of-Line Editor (EOLE)
 [![License: CC0](https://img.shields.io/badge/License-CC0-red)](LICENSE "Creative Commons Zero License by DataResearchLabs (effectively = Public Domain")
 ![current_build Office_365](https://img.shields.io/badge/Access_Version-Office_365-yellow)
-[![Latest Release](https://img.shields.io/badge/Latest_Release-V2.0.1.44458-blue)](https://github.com/DataResearchLabs/data_analysts_toolbox/tree/main/text_files_end_of_line_editor/download)
+[![Latest Release](https://img.shields.io/badge/Latest_Release-V2.0.1.44482-blue)](https://github.com/DataResearchLabs/data_analysts_toolbox/tree/main/text_files_end_of_line_editor/download)
 [![YouTube](https://img.shields.io/badge/YouTube-DataResearchLabs-brightgreen)](http://www.DataResearchLabs.com)
 #### Part of the "Data Analysts' Toolbox"
 
