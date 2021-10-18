@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/text_files_end_of_line_editor/img/icon_end_of_line_editor.png" width="64px">
+<img align="left" src="https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/mssql_data_dictionary_generator/img/mssql_data_dict_gen.png" width="64px">
 
 **PAGE IS UNDER CONSTRUCTION**
 
