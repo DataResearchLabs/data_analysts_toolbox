@@ -73,8 +73,7 @@ Links to the application executables, source code, and video tutorials are liste
 
 
 ## MySQL
-* MySQL "Data Dictionary" Download - Coming Soon<br>
-* MySQL "Data Dictionary" Source - Coming Soon<br>
+* MySQL "Data Dictionary" Coming Soon<br>
 </td>
 <td>
 <kbd>
@@ -96,8 +95,7 @@ Links to the application executables, source code, and video tutorials are liste
     
     
 ## Oracle
-* Oracle "Data Dictionary" Download - Coming Soon<br>
-* Oracle "Data Dictionary" Source - Coming Soon<br>
+* Oracle "Data Dictionary" Coming Soon<br>
 </td>
 <td>
 <kbd>
@@ -118,8 +116,7 @@ Links to the application executables, source code, and video tutorials are liste
     
     
 ## PostgreSQL
-* PostgreSQL "Data Dictionary" Download - Coming Soon<br>
-* PostgreSQL "Data Dictionary" Source - Coming Soon<br>
+* PostgreSQL "Data Dictionary" Coming Soon<br>
 </td>
 <td>
 <kbd>
