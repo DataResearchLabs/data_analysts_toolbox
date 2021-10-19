@@ -84,8 +84,8 @@ Links to the application executables, source code, and video tutorials are liste
 </td>
 <td>
 <kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bfpS2LTEVbY" target="_blank">
-<img src="http://img.youtube.com/vi/bfpS2LTEVbY/0.jpg" alt="Overview Video" width="200" />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bfpS2LTEVbYXXXX" target="_blank">
+<img src="http://img.youtube.com/vi/bfpS2LTEVbYXXXX/0.jpg" alt="Overview Video" width="200" />
 </a>
 </kbd>
 </td>
@@ -107,8 +107,8 @@ Links to the application executables, source code, and video tutorials are liste
 </td>
 <td>
 <kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ic5dafweq1E" target="_blank">
-<img src="http://img.youtube.com/vi/Ic5dafweq1E/0.jpg" alt="Overview Video" width="200" />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ic5dafweq1EXXXX" target="_blank">
+<img src="http://img.youtube.com/vi/Ic5dafweq1EXXXX/0.jpg" alt="Overview Video" width="200" />
 </a>
 </kbd>
 </td>
@@ -129,8 +129,8 @@ Links to the application executables, source code, and video tutorials are liste
 </td>
 <td>
 <kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ekLK46G_r28" target="_blank">
-<img src="http://img.youtube.com/vi/ekLK46G_r28/0.jpg" alt="Overview Video" width="200" />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ekLK46G_r28XXXX" target="_blank">
+<img src="http://img.youtube.com/vi/ekLK46G_r28XXXX/0.jpg" alt="Overview Video" width="200" />
 </a>
 </kbd>
 </td>
