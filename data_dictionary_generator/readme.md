@@ -39,28 +39,103 @@ Click here to **[download the application](https://github.com/DataResearchLabs/d
 Click here to **[download the source code](https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/text_files_end_of_line_editor/src/eol_editor.accdb)**.  This is an .accdb file that is open-source. Either (a) close all forms and press F11, **OR** (b) hold down the Shift-key when you open the application to access ALL source code.
 
 
-## Training Videos
-<table><tr>
-<td>
-  
- ***Video #1 "Overview Tutorial"***<br>
-  <kbd>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Azh5NyW1Yp8" target="_blank">
-   <img src="http://img.youtube.com/vi/Azh5NyW1Yp8/0.jpg" alt="Overview Video" width="200" />
-  </a>
-  </kbd>
-</td>
-<td>
-  
- ***Video #2 "Download & Deploy"***<br>
-  <kbd>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=3l__kMmxFqI" target="_blank">
-   <img src="http://img.youtube.com/vi/3l__kMmxFqI/0.jpg" alt="Overview Video" width="200" />
-  </a>
-  </kbd>
-</td>
- </tr></table> 
+## Downloads & Tutorials by Platform
+Links to the application executables, source code, and video tutorials are listed below, by platform (MSSQL, Oracle, MySQL, and Postgresql):
 <br>
 <br>
 
+<table>
 
+<tr>
+<td align="center" valign="top">
+  <br>
+  <img src="https://github.com/DataResearchLabs/sql_scripts/blob/main/img/db_icons/mssql_icon.png" width="96px">
+</td>
+<td>
+
+
+## MS SQL Server
+* [MSSQL "Data Dictionary" Download](https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/data_dictionary_generator/mssql/download/mssql_data_dict_gen.accde)<br>
+* [MSSQL "Data Dictionary" Source](https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/data_dictionary_generator/mssql/src/mssql_data_dict_gen.accdb)<br>
+</td>
+<td>
+<kbd>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Y6ZUdLBOufY" target="_blank">
+  <br>
+  <img src="http://img.youtube.com/vi/Y6ZUdLBOufY/0.jpg" alt="Overview Video" width="200" />
+</a>
+</kbd>
+</td>
+</tr>
+
+
+
+<tr>
+<td align="center" valign="top">
+  <br>
+  <img src="https://github.com/DataResearchLabs/sql_scripts/blob/main/img/db_icons/mysql_icon.png" width="105px">
+</td>
+<td>
+
+
+## MySQL
+* MySQL "Data Dictionary" Download - Coming Soon<br>
+* MySQL "Data Dictionary" Source - Coming Soon<br>
+</td>
+<td>
+<kbd>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bfpS2LTEVbY" target="_blank">
+<img src="http://img.youtube.com/vi/bfpS2LTEVbY/0.jpg" alt="Overview Video" width="200" />
+</a>
+</kbd>
+</td>
+</tr>
+
+
+
+<tr>
+  <td align="center" valign="top">
+  <br>
+  <img src="https://github.com/DataResearchLabs/sql_scripts/blob/main/img/db_icons/oracle_icon.png" width="90px">
+</td>
+<td>
+    
+    
+## Oracle
+* Oracle "Data Dictionary" Download - Coming Soon<br>
+* Oracle "Data Dictionary" Source - Coming Soon<br>
+</td>
+<td>
+<kbd>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ic5dafweq1E" target="_blank">
+<img src="http://img.youtube.com/vi/Ic5dafweq1E/0.jpg" alt="Overview Video" width="200" />
+</a>
+</kbd>
+</td>
+</tr>
+
+
+<tr>
+<td align="center" valign="top">
+  <br>
+  <img src="https://github.com/DataResearchLabs/sql_scripts/blob/main/img/db_icons/pgsql_icon1.png" width="115px">
+</td>
+<td>
+    
+    
+## PostgreSQL
+* PostgreSQL "Data Dictionary" Download - Coming Soon<br>
+* PostgreSQL "Data Dictionary" Source - Coming Soon<br>
+</td>
+<td>
+<kbd>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ekLK46G_r28" target="_blank">
+<img src="http://img.youtube.com/vi/ekLK46G_r28/0.jpg" alt="Overview Video" width="200" />
+</a>
+</kbd>
+</td>
+</tr>
+</table>
+
+<br>
+<br>
