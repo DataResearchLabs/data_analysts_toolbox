@@ -23,7 +23,7 @@
 
 ## Screenshot
 <kbd>
-  <img src="img/screens.png" width="1123">
+  <img src="mssql/img/screens.png" width="1123">
 </kbd>
 
 
