@@ -1,8 +1,7 @@
 <img align="left" src="https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/mssql_data_dictionary_generator/img/mssql_data_dict_gen.png" width="64px">
 
-#PAGE IS UNDER CONSTRUCTION#
 
-# MSSQL Data Dictionary Generator (DDG.MSSQL)
+# Data Dictionary Generator
 [![License: CC0](https://img.shields.io/badge/License-CC0-red)](LICENSE "Creative Commons Zero License by DataResearchLabs (effectively = Public Domain")
 ![current_build Office_365](https://img.shields.io/badge/Access_Version-Office_365-yellow)
 [![Latest Release](https://img.shields.io/badge/Latest_Release-V2.0.1.44486.2-blue)](https://github.com/DataResearchLabs/data_analysts_toolbox/tree/main/text_files_end_of_line_editor/download)
@@ -10,12 +9,14 @@
 #### Part of the "Data Analysts' Toolbox"
 
 
+
+
 ## Overview
-* **What**: A free, simple utility for identifying and changing end-of-line characters in text files.<br>
-* **Levelset**: Windows PC files end lines with CR+LF (carriage return + line feed).  Linux, Unix, and the newer MAC end lines with just LF.  The older MacOS ended lines with CR.  Text editors and applications in the various operating systems often cannot read files written in another OS until you change the end of line characters.<br>
-* **Why**: Sometimes you need to convert a text file created in Linux (LF terminator) into a file PCs can read (CR+LF terminator).  Same for the reverse direction, or going to or from the old MacOS.  On rare occasions, you'll even see files that for whatever reason mix and match end of line terminators (eg: all CRLF's with one line having only a CR).  You can use this simple utility to quickly spot these issues, and fix them.<br>
-* **How**: Download and run .accdb file.  From there, click open and pick the text file of interest and wait for it to load and parse out.  It will popup with a row count as well as a count of each end-of-line terminator encountered.  Select the new end-of-line you want from the drop-down, and click the convert button.<br>
-* **Who**: Built as a standalone tool for individual data analysts, software test engineers, or similar folks.<br>
+* **What**: A free, simple utility for generating data dictionaries as CSV, Excel, or PDF files.  Bonus: generates comment scripts and data dictionary scripts for you to modify and run as needed.<br>
+* **Levelset**: A "Data Dictionary" is simply a list of tables and views, their column properties such as name, ordinal position, data type/length/size/precision, allows nulls, and of course the column description. A good data dictionary also indicates which columns are a part of a primary key, foreign key, or unique key.<br>
+* **Why**: Data dictionaries can be used to train new employees how your system is setup. They can be used as a baseline for new projects, an "as-built" set of documentation from which to start. They can be used as close-out documentation to wrap-up a project and push it out into Excel on a wiki or Sharepoint, etc.<br>
+* **How**: Download and run .accde file.  From there, click open and follow the Wizard steps to run the job against a SQL Server database of your choic.  The appropriate output you selected will popup in Notepad, or Excel, or Acrobat Reader.<br>
+* **Who**: Built as a standalone tool for individual data analysts, systems analysts, ,software test engineers, or similar folks.<br>
 * **Where**: On a desktop or laptop.  **Requires Microsoft Access 365**.  Yep, it is a VBA application, [read here for why](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/src/SOURCE_CODE.md#whyMicrosoftAccess)<br>
 * **License**: Creative Commons Zero, effectively public domain.  Free to use.  Free to copy.  Free to alter.  Free to distribute.<br>
 
