@@ -54,9 +54,9 @@ Links to the application executables, source code, and video tutorials are liste
 </td>
 <td>
 <kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Y6ZUdLBOufY" target="_blank">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Y6ZUdLBOufYX" target="_blank">
   <br>
-  <img src="http://img.youtube.com/vi/Y6ZUdLBOufY/0.jpg" alt="Overview Video" width="200" />
+  <img src="http://img.youtube.com/vi/Y6ZUdLBOufYXC/0.jpg" alt="Overview Video" width="200" />
 </a>
 </kbd>
 </td>
