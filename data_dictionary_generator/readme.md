@@ -20,6 +20,14 @@
 * **Where**: On a desktop or laptop.  **Requires Microsoft Access 365**.  Yep, it is a VBA application, [read here for why](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/src/SOURCE_CODE.md#whyMicrosoftAccess)<br>
 * **License**: Creative Commons Zero, effectively public domain.  Free to use.  Free to copy.  Free to alter.  Free to distribute.<br>
 
+
+## Screenshot
+<kbd>
+  <img src="img/screens.png" width="1123">
+</kbd>
+
+
+
 ## Download
 Click here to **[download the application](https://github.com/DataResearchLabs/data_analysts_toolbox/tree/main/text_files_end_of_line_editor/download)**.  This package contains an .accde file that is locked so source code is inaccessible and can be safely used in your organization.<br><br>
 
@@ -55,9 +63,4 @@ Click here to **[download the source code](https://github.com/DataResearchLabs/d
 <br>
 <br>
 
-
-## Screenshot
-<kbd>
-  <img src="img/main_screen_x.png" width="1123">
-</kbd>
 
