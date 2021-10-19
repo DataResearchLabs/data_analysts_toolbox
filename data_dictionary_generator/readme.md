@@ -33,12 +33,6 @@
 <br>
 
 
-## Download
-Click here to **[download the application](https://github.com/DataResearchLabs/data_analysts_toolbox/tree/main/text_files_end_of_line_editor/download)**.  This package contains an .accde file that is locked so source code is inaccessible and can be safely used in your organization.<br><br>
-
-Click here to **[download the source code](https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/text_files_end_of_line_editor/src/eol_editor.accdb)**.  This is an .accdb file that is open-source. Either (a) close all forms and press F11, **OR** (b) hold down the Shift-key when you open the application to access ALL source code.
-
-
 ## Downloads & Tutorials by Platform
 Links to the application executables, source code, and video tutorials are listed below, by platform (MSSQL, Oracle, MySQL, and Postgresql):
 <br>
