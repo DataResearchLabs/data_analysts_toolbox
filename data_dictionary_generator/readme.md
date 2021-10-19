@@ -27,16 +27,16 @@
 </kbd>
 
 
+***If you like this tool, be sure to click the "Star" button above in GitHub.*** <br>
+<br>
+***Also, be sure to visit or subscribe to our YouTube channel*** www.DataResearchLabs.com!<br>
+<br>
+
 
 ## Download
 Click here to **[download the application](https://github.com/DataResearchLabs/data_analysts_toolbox/tree/main/text_files_end_of_line_editor/download)**.  This package contains an .accde file that is locked so source code is inaccessible and can be safely used in your organization.<br><br>
 
 Click here to **[download the source code](https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/text_files_end_of_line_editor/src/eol_editor.accdb)**.  This is an .accdb file that is open-source. Either (a) close all forms and press F11, **OR** (b) hold down the Shift-key when you open the application to access ALL source code.
-
-***If you like this tool, be sure to click the "Star" button above in GitHub.*** <br>
-<br>
-***Also, be sure to visit or subscribe to our YouTube channel*** www.DataResearchLabs.com!<br>
-<br>
 
 
 ## Training Videos
