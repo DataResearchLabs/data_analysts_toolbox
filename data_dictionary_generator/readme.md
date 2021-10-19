@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/mssql_data_dictionary_generator/img/mssql_data_dict_gen.png" width="64px">
+<img align="left" src="https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/data_dictionary_generator/mssql/img/mssql_data_dict_gen.png" width="64px">
 
 
 # Data Dictionary Generator
