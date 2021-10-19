@@ -5,7 +5,7 @@ Collection of useful data analyst tools to manipulate everything from text files
 
 
 
-## Data Dictionary Generator [MSSQL](https://github.com/DataResearchLabs/data_analysts_toolbox/tree/main/mssql_data_dictionary_generator/readme.md)
+## [Data Dictionary Generator](https://github.com/DataResearchLabs/data_analysts_toolbox/tree/main/data_dictionary_generator/readme.md)
 
 <img align="right" src="https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/data_dictionary_generator/mssql/img/screens.png" width="300px">
 
