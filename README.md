@@ -9,7 +9,7 @@ Collection of useful data analyst tools to manipulate everything from text files
 
 <img align="right" src="https://github.com/DataResearchLabs/data_analysts_toolbox/blob/main/data_dictionary_generator/mssql/img/screens.png" width="300px">
 
-This Data Dictionary Generator tool is easier and faster to use than [scripts](https://github.com/DataResearchLabs/sql_scripts/blob/main/data_dictionary_scripts.md) to easily document an existing database schema.  You can dump the tables, views, colun descriptions, data types/lengths/sizes/precision, key constraints, and othr information.  Results can be instantly exported to CSV, Excel, or even PDF.  You can generate just the comments script for tables and columns for you to edit and run, then put under source control.  You can outupt the SQL script used to generate the data dictionary for you own use embedding into your systems and tools.<br>
+This Data Dictionary Generator tool is easier and faster to use than [scripts](https://github.com/DataResearchLabs/sql_scripts/blob/main/data_dictionary_scripts.md) to easily document an existing database schema.  You can dump the tables, views, column descriptions, data types/lengths/sizes/precision, key constraints, and othr information.  Results can be instantly exported to CSV, Excel, or even PDF.  You can generate just the comments script for tables and columns for you to edit and run, then put under source control.  You can outupt the SQL script used to generate the data dictionary for you own use embedding into your systems and tools.<br>
 <br>
 <br>
 
