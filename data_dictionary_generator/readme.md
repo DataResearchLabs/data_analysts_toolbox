@@ -56,7 +56,7 @@ Links to the application executables, source code, and video tutorials are liste
 <kbd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Lh14fKxIalc" target="_blank">
   <br>
-  <img src="http://img.youtube.com/vi/Lh14fKxIalc/0.jpg" alt="Overview Video" width="200" />
+  <img src="http://img.youtube.com/vi/Lh14fKxIalc/0.jpg" alt="Overview Video" width="180" />
 </a>
 </kbd>
 </td>
@@ -64,7 +64,7 @@ Links to the application executables, source code, and video tutorials are liste
 <kbd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=iykm7VPe0Pw" target="_blank">
   <br>
-  <img src="http://img.youtube.com/vi/iykm7VPe0Pw/0.jpg" alt="Overview Video" width="200" />
+  <img src="http://img.youtube.com/vi/iykm7VPe0Pw/0.jpg" alt="Overview Video" width="180" />
 </a>
 </kbd>
 </td>
@@ -72,7 +72,7 @@ Links to the application executables, source code, and video tutorials are liste
 <kbd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=kiVa7aJau8M" target="_blank">
   <br>
-  <img src="http://img.youtube.com/vi/kiVa7aJau8M/0.jpg" alt="Overview Video" width="200" />
+  <img src="http://img.youtube.com/vi/kiVa7aJau8M/0.jpg" alt="Overview Video" width="180" />
 </a>
 </kbd>
 </td>
@@ -94,21 +94,21 @@ Links to the application executables, source code, and video tutorials are liste
 <td>
 <kbd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bfpS2LTEVbYXXXX" target="_blank">
-<img src="http://img.youtube.com/vi/bfpS2LTEVbYXXXX/0.jpg" alt="Overview Video" width="200" />
+<img src="http://img.youtube.com/vi/bfpS2LTEVbYXXXX/0.jpg" alt="Overview Video" width="180" />
 </a>
 </kbd>
 </td>
 <td>
 <kbd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bfpS2LTEVbYXXXX" target="_blank">
-<img src="http://img.youtube.com/vi/bfpS2LTEVbYXXXX/0.jpg" alt="Overview Video" width="200" />
+<img src="http://img.youtube.com/vi/bfpS2LTEVbYXXXX/0.jpg" alt="Overview Video" width="180" />
 </a>
 </kbd>
 </td>
 <td>
 <kbd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bfpS2LTEVbYXXXX" target="_blank">
-<img src="http://img.youtube.com/vi/bfpS2LTEVbYXXXX/0.jpg" alt="Overview Video" width="200" />
+<img src="http://img.youtube.com/vi/bfpS2LTEVbYXXXX/0.jpg" alt="Overview Video" width="180" />
 </a>
 </kbd>
 </td>
@@ -130,21 +130,21 @@ Links to the application executables, source code, and video tutorials are liste
 <td>
 <kbd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ic5dafweq1EXXXX" target="_blank">
-<img src="http://img.youtube.com/vi/Ic5dafweq1EXXXX/0.jpg" alt="Overview Video" width="200" />
+<img src="http://img.youtube.com/vi/Ic5dafweq1EXXXX/0.jpg" alt="Overview Video" width="180" />
 </a>
 </kbd>
 </td>
 <td>
 <kbd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ic5dafweq1EXXXX" target="_blank">
-<img src="http://img.youtube.com/vi/Ic5dafweq1EXXXX/0.jpg" alt="Overview Video" width="200" />
+<img src="http://img.youtube.com/vi/Ic5dafweq1EXXXX/0.jpg" alt="Overview Video" width="180" />
 </a>
 </kbd>
 </td>
 <td>
 <kbd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ic5dafweq1EXXXX" target="_blank">
-<img src="http://img.youtube.com/vi/Ic5dafweq1EXXXX/0.jpg" alt="Overview Video" width="200" />
+<img src="http://img.youtube.com/vi/Ic5dafweq1EXXXX/0.jpg" alt="Overview Video" width="180" />
 </a>
 </kbd>
 </td>
@@ -165,21 +165,21 @@ Links to the application executables, source code, and video tutorials are liste
 <td>
 <kbd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ekLK46G_r28XXXX" target="_blank">
-<img src="http://img.youtube.com/vi/ekLK46G_r28XXXX/0.jpg" alt="Overview Video" width="200" />
+<img src="http://img.youtube.com/vi/ekLK46G_r28XXXX/0.jpg" alt="Overview Video" width="180" />
 </a>
 </kbd>
 </td>
 <td>
 <kbd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ekLK46G_r28XXXX" target="_blank">
-<img src="http://img.youtube.com/vi/ekLK46G_r28XXXX/0.jpg" alt="Overview Video" width="200" />
+<img src="http://img.youtube.com/vi/ekLK46G_r28XXXX/0.jpg" alt="Overview Video" width="180" />
 </a>
 </kbd>
 </td>
 <td>
 <kbd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ekLK46G_r28XXXX" target="_blank">
-<img src="http://img.youtube.com/vi/ekLK46G_r28XXXX/0.jpg" alt="Overview Video" width="200" />
+<img src="http://img.youtube.com/vi/ekLK46G_r28XXXX/0.jpg" alt="Overview Video" width="180" />
 </a>
 </kbd>
 </td>
