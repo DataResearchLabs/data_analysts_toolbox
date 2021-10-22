@@ -134,6 +134,20 @@ Links to the application executables, source code, and video tutorials are liste
 </a>
 </kbd>
 </td>
+<td>
+<kbd>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ic5dafweq1EXXXX" target="_blank">
+<img src="http://img.youtube.com/vi/Ic5dafweq1EXXXX/0.jpg" alt="Overview Video" width="200" />
+</a>
+</kbd>
+</td>
+<td>
+<kbd>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ic5dafweq1EXXXX" target="_blank">
+<img src="http://img.youtube.com/vi/Ic5dafweq1EXXXX/0.jpg" alt="Overview Video" width="200" />
+</a>
+</kbd>
+</td>
 </tr>
 
 
@@ -147,6 +161,20 @@ Links to the application executables, source code, and video tutorials are liste
     
 ## PostgreSQL
 * PostgreSQL "Data Dictionary" Coming Soon<br>
+</td>
+<td>
+<kbd>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ekLK46G_r28XXXX" target="_blank">
+<img src="http://img.youtube.com/vi/ekLK46G_r28XXXX/0.jpg" alt="Overview Video" width="200" />
+</a>
+</kbd>
+</td>
+<td>
+<kbd>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ekLK46G_r28XXXX" target="_blank">
+<img src="http://img.youtube.com/vi/ekLK46G_r28XXXX/0.jpg" alt="Overview Video" width="200" />
+</a>
+</kbd>
 </td>
 <td>
 <kbd>
