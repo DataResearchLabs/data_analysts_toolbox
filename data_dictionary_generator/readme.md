@@ -33,6 +33,9 @@
 <br>
 
 
+## Related Content
+- https://github.com/DataResearchLabs/sql_scripts/blob/main/data_dictionary_scripts.md
+
 ## Downloads & Tutorials by Platform
 Links to the application executables, source code, and video tutorials are listed below, by platform (MSSQL, Oracle, MySQL, and Postgresql):
 <br>
