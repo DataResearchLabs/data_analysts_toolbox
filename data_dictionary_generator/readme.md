@@ -128,7 +128,7 @@ Coming Soon...</a>
     
     
 ## Oracle
-* Oracle Coming Soon<br>
+* Oracle Coming Soon...<br>
 </td>
 <td>
 <kbd>
@@ -160,7 +160,7 @@ Coming Soon...
     
     
 ## PostgreSQL
-* PostgreSQL Coming Soon<br>
+* PostgreSQL Coming Soon...<br>
 </td>
 <td>
 <kbd>
