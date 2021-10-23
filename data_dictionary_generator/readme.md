@@ -96,27 +96,23 @@ Links to the application executables, source code, and video tutorials are liste
 
 
 ## MySQL
-* MySQL "Data Dictionary" Coming Soon<br>
+* MySQL Coming Soon...<br>
 </td>
 <td>
 <kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bfpS2LTEVbYXXXX" target="_blank">
-<img src="http://img.youtube.com/vi/bfpS2LTEVbYXXXX/0.jpg" alt="Overview Video" width="180" />
+Coming Soon...
 </a>
 </kbd>
 </td>
 <td>
 <kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bfpS2LTEVbYXXXX" target="_blank">
-<img src="http://img.youtube.com/vi/bfpS2LTEVbYXXXX/0.jpg" alt="Overview Video" width="180" />
+Coming Soon...
 </a>
 </kbd>
 </td>
 <td>
 <kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bfpS2LTEVbYXXXX" target="_blank">
-<img src="http://img.youtube.com/vi/bfpS2LTEVbYXXXX/0.jpg" alt="Overview Video" width="180" />
-</a>
+Coming Soon...</a>
 </kbd>
 </td>
 </tr>
@@ -132,26 +128,23 @@ Links to the application executables, source code, and video tutorials are liste
     
     
 ## Oracle
-* Oracle "Data Dictionary" Coming Soon<br>
+* Oracle Coming Soon<br>
 </td>
 <td>
 <kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ic5dafweq1EXXXX" target="_blank">
-<img src="http://img.youtube.com/vi/Ic5dafweq1EXXXX/0.jpg" alt="Overview Video" width="180" />
+Coming Soon...
 </a>
 </kbd>
 </td>
 <td>
 <kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ic5dafweq1EXXXX" target="_blank">
-<img src="http://img.youtube.com/vi/Ic5dafweq1EXXXX/0.jpg" alt="Overview Video" width="180" />
+Coming Soon...
 </a>
 </kbd>
 </td>
 <td>
 <kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ic5dafweq1EXXXX" target="_blank">
-<img src="http://img.youtube.com/vi/Ic5dafweq1EXXXX/0.jpg" alt="Overview Video" width="180" />
+Coming Soon...
 </a>
 </kbd>
 </td>
@@ -167,27 +160,21 @@ Links to the application executables, source code, and video tutorials are liste
     
     
 ## PostgreSQL
-* PostgreSQL "Data Dictionary" Coming Soon<br>
+* PostgreSQL Coming Soon<br>
 </td>
 <td>
 <kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ekLK46G_r28XXXX" target="_blank">
-<img src="http://img.youtube.com/vi/ekLK46G_r28XXXX/0.jpg" alt="Overview Video" width="180" />
-</a>
+Coming Soon...</a>
 </kbd>
 </td>
 <td>
 <kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ekLK46G_r28XXXX" target="_blank">
-<img src="http://img.youtube.com/vi/ekLK46G_r28XXXX/0.jpg" alt="Overview Video" width="180" />
-</a>
+Coming Soon...</a>
 </kbd>
 </td>
 <td>
 <kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ekLK46G_r28XXXX" target="_blank">
-<img src="http://img.youtube.com/vi/ekLK46G_r28XXXX/0.jpg" alt="Overview Video" width="180" />
-</a>
+Coming Soon...</a>
 </kbd>
 </td>
 </tr>
