@@ -31,10 +31,14 @@
 <br>
 ***Also, be sure to visit or subscribe to our YouTube channel*** www.DataResearchLabs.com!<br>
 <br>
+<br>
 
 
 ## Related Content
 - https://github.com/DataResearchLabs/sql_scripts/blob/main/data_dictionary_scripts.md
+<br>
+<br>
+
 
 ## Downloads & Tutorials by Platform
 Links to the application executables, source code, and video tutorials are listed below, by platform (MSSQL, Oracle, MySQL, and Postgresql):
